@@ -1,6 +1,5 @@
 ### Opaaa! Eu sou o Vitor 👋
 
-- 🔭 No momento meu foco é ser um DEV Front-end
 - 🌱 Faço faculdade de Sistemas de Informação
 - 😄 Pronouns: Ele/Dele
 
