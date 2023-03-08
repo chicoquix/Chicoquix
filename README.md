@@ -1,7 +1,6 @@
-### Opaaa! Eu sou o Vitor 👋
+### Opaaa! Eu sou o Vitor, mais conhecido como Chico 👋
 
-- 🌱 Faço faculdade de Sistemas de Informação
-- 😄 Pronouns: Ele/Dele
+- 🌱 Estudante de Sistemas de Informação
 
 <div align="center">
   <a href="https://github.com/Chicoquix">
@@ -23,6 +22,6 @@
  <div> 
   <a href="https://instagram.com/chicoquix" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vitorfdasillva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitor-francisco-b892b3193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/chicoquix/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
